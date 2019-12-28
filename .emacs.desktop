@@ -1,0 +1,13 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Dec 28 13:18:40 2019
+;; Desktop file format version 208
+;; Emacs version 25.2.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (24070 55200 512979 200000) (desktop . "208") "sugiyama@DESKTOP-96L3BS3" nil nil ((((tty-type . "xterm-256color") (tty . "/dev/tty") (display-type . color) (background-mode . light) (foreground-color . "unspecified-fg") (cursor-color . "black") (tool-bar-lines . 0) (menu-bar-lines . 0) (background-color . "unspecified-bg") (font . "tty") (height . 33) (width . 126) (modeline . t) (unsplittable) (frameset--id . "CC32-9060-625F-9444") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 2) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 126) (pixel-height . 32) (total-width . 126) (total-height . 32) (normal-height . 1.0) (normal-width . 1.0) (buffer "init_bash" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 53) (start . 1))))])
+(setq extended-command-history nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
